@@ -1,0 +1,25 @@
+body{
+    text-transform: uppercase;
+    color: #e5eaee;
+    background: linear-gradient(to right, #3f2a8d, #0a0329);
+}
+
+button, #enter{
+    background-color: #0e0e3d;
+    color: #dbdbdf;
+}
+
+.mark{
+    color: #607aa8;
+}
+
+.undo{
+    font-weight: bold;
+    color: #f9f9fa;
+}
+
+.done{
+    font-style: oblique;
+    color: #4f4e88;
+    text-decoration: line-through;
+}
